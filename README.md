@@ -28,3 +28,9 @@
 **Подсказка**: страница, на которой можно "подглядеть" реализацию: https://getbootstrap.com/docs/4.3/components/popovers/. Но мы пока не проходили `translate`, `translate3d`, поэтому делайте позиционирование в px.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/rfxd3w56dnbkxsaa/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-5-1-yhw56/branch/main)
+
+---
+
+https://222alexa.github.io/AHJ-5.1/
